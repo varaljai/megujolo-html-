@@ -1,0 +1,19 @@
+body {
+    background-color: darkolivegreen;
+    color: gold;
+}
+
+img {
+    border-width: 5px;
+    border-style: dotted;
+    border-color: cyan;
+}
+
+.formaz {
+    font-weight: bold;
+}
+#hatter {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgreen;
+    color: darkorange;
+}
